@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A senior engineer with over 7 years commercial experience in software development. Experience in leading teams, mentoring engineers and software architecture.</h3>
+<h3 align="center">A Bug developer using instinct driven development. 🤪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaalpuerto" alt="joshuaalpuerto" /> </p>
 
