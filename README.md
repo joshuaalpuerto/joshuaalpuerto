@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A bug developer using instinct driven development. 🤪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaalpuerto" alt="joshuaalpuerto" /> </p>
-
 - 🔭 I’m currently working on [making immigration simple](https://jobbatical.com/)
 
 - 🌱 I’m currently learning **Microservices, GraphQL, Architecture, Performance, Functional Programming**
