@@ -21,8 +21,6 @@
 <a href="https://www.hackerrank.com/joshuacalpuerto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="joshuacalpuerto" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaalpuerto&layout=compact" alt="joshuaalpuerto" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaalpuerto&show_icons=true" alt="joshuaalpuerto" /></p>
 
