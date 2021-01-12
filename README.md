@@ -22,5 +22,5 @@
 </p>
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaalpuerto&show_icons=true" alt="joshuaalpuerto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaalpuerto&show_icons=true&theme=radical" alt="joshuaalpuerto" /></p>
 
