@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshuaalpuerto](https://github.com/joshuaalpuerto)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about anything! Happy to help! 🙇‍♂️
 
 - 📫 How to reach me **joshuacalpuerto@gmail.com**
 
