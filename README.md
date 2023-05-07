@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [making immigration simple](https://jobbatical.com/)
 
-- 🌱 I’m currently learning **Microservices, GraphQL, Architecture, Performance, Functional Programming**
+- 🌱 I’m currently learning **Architecture, Performance, Functional Programming, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshuaalpuerto](https://github.com/joshuaalpuerto)
 
