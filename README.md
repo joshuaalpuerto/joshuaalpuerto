@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A bug developer using instinct driven development. 🤪</h3>
 
-- 🔭 I’m currently working on [making immigration simple](https://jobbatical.com/)
-
 - 🌱 I’m currently learning **Machine Learning/AI development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshuaalpuerto](https://github.com/joshuaalpuerto)
